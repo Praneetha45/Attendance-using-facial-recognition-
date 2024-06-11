@@ -22,6 +22,7 @@ pip install opencv-python
 pip install yagmail
 ```
 ## Working 
+There should be folder containing the photos of the students participating for detecting the faces.the photos should be saved with .png extension.
 This project contains two parts:
 
 Part 1: Marking the Attendance
